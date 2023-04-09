@@ -1,4 +1,4 @@
-#CS4240 22nd STePS
+# CS4240 22nd STePS
 # VoiceKnightVR
 An engaging __VR Online Multi-user__ Karaoke Platform
 
