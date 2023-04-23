@@ -2,6 +2,8 @@
 # VoiceKnightVR
 An engaging __VR Online Multi-user__ Karaoke Platform
 
+Finally won 2nd Prize in 22nd STePS
+
 ## Description  
 Miss your loved ones? Ready to sing your heart out? Want a platform full of spotlights?  
 Whether to improve singing skills or just have a great time with friends, this is the next generation of Karaoke.  
